@@ -104,6 +104,8 @@ const portfolio = () => {
                             <p>Email Address: c.zacharias2021@gmail.com</p>
                             <p>Phone Number:(434)-327-8757</p>
                         </div>
+                           <footer>CZ Portfolio 2021</footer>
+
                     </div>
 
                 </div>

@@ -34,3 +34,7 @@
 .aboutApp, .portfolioApp, .contactApp, html {
   background-color: rgb(12, 75, 170);
 }
+
+footer {
+  text-align: center;
+}

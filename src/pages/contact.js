@@ -34,7 +34,10 @@ const Contact = () => {
                                         </div>
                                         <input className="btn btn-primary" type="submit" value="Submit" />
                 </blockquote>
+                <footer>CZ Portfolio 2021</footer>
+
                                     </div>
+
 
         </div>
                             </div>
