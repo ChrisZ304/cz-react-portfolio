@@ -1,38 +1,36 @@
-.App {
-  text-align: center;
+
+.navApp {
+  background-color: #f9fbfc;
+  color: rgba(22, 62, 170, 0.884);
+  font-size: 20px;
+  padding: 20px;
+  border-bottom: 7px rgb(9, 55, 92) ;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#name {
+  font-size: 25px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.container {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: rgba(9, 18, 46, 0.37);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+
+
+.card-header {
+  border-top: 5px solid rgb(9, 55, 92);
+  border-left: 5px solid rgb(9, 55, 92);
+  border-right: 5px solid rgb(9, 55, 92));
 }
 
-.App-link {
-  color: #61dafb;
+.card-body {
+  border-left: 5px solid rgb(9, 55, 92);
+  border-bottom: 5px solid rgb(9, 55, 92);
+  border-right: 5px solid rgb(9, 55, 92);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.aboutApp, .portfolioApp, .contactApp, html {
+  background-color: rgb(12, 75, 170);
 }

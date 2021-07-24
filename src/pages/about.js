@@ -1,9 +1,10 @@
 import React from "react";
-import "../../App.css";
+import "../App.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
-function body(props) {
+const mainPage = () => {
+    
     return (
         <div className="aboutApp">
 
@@ -27,14 +28,17 @@ function body(props) {
     
     <p>After highschool, I went on to attend Piedmont Va Community College where I took a series of general studies classes before deciding to save money and switch to full time work. After several years of working in a number of positions, I decided I was ready to get back into my studies. I tried a few single classes in subjects such as psychology and foreign language, but eventually found my way here to this bootcamp.</p>
         
-    <p>I have no previous experience or background in coding, but I finally became interested in the subject because my dad used to be a programmer for the Richmond Railroad when he was young. I'm not sure if I want to be a programmer specifically, but he suggested to me that computer coding may be something I'd enjoy and a field in which I could potentially excel, given my love and knack for languages in general. I have found, so far that I enjoy it very much, and I'm thankful that my dad was right (even though, admittedly, it's taken me a literal decade to be open to that possibility.) I like it because it is very mentally stimulating and challenging, and I especially like that it's very cut and dry. It either works or it doesn't, and to work it needs to be thoroughly correct. I've found it seems to be an ideal fit for my unreasonably perfectionistic nature, and although my dad passed a few years back, I think it also allows me to feel somewhat connected to him as odd as that may seem.</p>
+    <p>I have no previous experience or background in coding, but I finally became interested in the subject because my dad used to be a programmer for the Richmond Railroad when he was young. I'm not sure if I want to be a programmer specifically, but he suggested to me that computer coding may be something I'd enjoy and a field in which I could potentially excel, given my love and knack for languages in general. I have found, so far that I enjoy it very much, and I'm thankful that my dad was right (even though, admittedly, it's taken me a literal decade to be open to that possibility.) I like it because it is very mentally stimulating and challenging, and I especially like that it's very cut and dry. It either works or it doesn't, and to work it needs to be thoroughly correct. I've found it seems to be an ideal fit for my unreasonably perfectionistic nature, and although my dad passed a few years back, I think it also allows me to feel somewhat connected to him as odd as that may seem.
+
+</p>
  </div>
   </div>
    </blockquote>
    </div>
  </div>
+            </div>
+
         </div>
-    </div>
             )
     }
-export default body
+export default mainPage
