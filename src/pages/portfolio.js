@@ -23,19 +23,19 @@ const portfolio = () => {
                                         className="card-img-top" alt="img-one" />
                                 </a>
                                 <p className="card-text"></p>
-                                <p id="repo"><a href="https://github.com/ChrisZ304/lightCville">https://github.com/ChrisZ304/lightCville</a></p>
+                                <p id="repo"><a href="https://lightcville.herokuapp.com/login">Project 2</a></p>
                             </div>
                             <div className="col-md-1"></div>
 
                             <div className="col-md-3">
-                                <a href="">
+                                <a href="https://gitoffmyfarm.github.io/Recipe-Box/">
                                     <img src=""
                                         className="card-img-top" alt="img-two" />
                                 </a>
-                                <p className="card-text">Day Planner</p>
-                                <p id="repo"><a href=""
-                                ></a></p>
+                                <p className="card-text"></p>
+                                <p id="repo"><a href="https://gitoffmyfarm.github.io/Recipe-Box/">Project 1</a></p>
                             </div>
+                            <div className="col-md-1"></div>
                         </div>
                         <br></br>
                         <br></br>
@@ -45,55 +45,49 @@ const portfolio = () => {
 
                             </div>
                             <div className="col-md-3">
-                                <a href="">
-                                    <img src=""
-                                        className="card-img-top" alt="img-one" />
-                                </a>
-                                <p className="card-text">Code Quiz</p>
-                                <p id="repo"><a href=""
-                                ></a></p>
-                            </div>
-                            <div className="col-md-1">
-
-                            </div>
-                            <div className="col-md-3">
-                                <a href="">
-                                    <img src=""
-                                        className="card-img-top" alt="img-one" />
-                                </a>
-                                <p className="card-text">Project-1</p>
-                                <p id="repo"><a href=""
-                                ></a></p>
-                                <div className="col-md-1"></div>
-                            </div>
-                        </div>
-                        <br></br>
-                        <br></br>
-                        <div className="row">
-                            <div className="col-md-1"></div>
-                            <div className="col-md-3">
-                                <a href="">
-                                    <img src=""
-                                        className="card-img-top" alt="img-one" />
-                                </a>
-                                <p className="card-text">Password Generator</p>
-                                <p id="repo"><a href=""
-                                ></a></p>
-
-                            </div>
-
-                            <div className="col-md-1"></div>
-
-                            <div className="col-md-3">
-                                <a href="">
-                                    <img src="a"
-                                        className="card-img-top" alt="img-one" />
+                                <a href="https://chrisz304.github.io/HW4-code-quiz/">
+                                    <img src="hw20-react-portfolio/Assets/proj2-login.png"
+                                        className="card-img-top" alt="img-three" />
                                 </a>
                                 <p className="card-text"></p>
-                                <p id="repo"><a href=""
-                                ></a></p>
-
+                                <p id="repo"><a href="https://chrisz304.github.io/HW4-code-quiz/">Code Quiz</a></p>
                             </div>
+                            <div className="col-md-1"></div>
+
+                            <div className="col-md-3">
+                                <a href="https://drive.google.com/file/d/1xz21WXZYYLq2fOlAqnamnDUYXRaSV0zW/view">
+                                    <img src=""
+                                        className="card-img-top" alt="img-four" />
+                                </a>
+                                <p className="card-text"></p>
+                                <p id="repo"><a href="https://github.com/ChrisZ304/HW12-employeeDB">employeeDB</a></p>
+                            </div>
+                            <div className="col-md-1"></div>
+                        </div>
+                        <br></br>
+                        <br></br>
+                        <div className="row">
+                            <div className="col-md-1"></div>
+                            <div className="col-md-3">
+                                <a href="https://chrisz304.github.io/HW3-password-generator/">
+                                    <img src="hw20-react-portfolio/Assets/proj2-login.png"
+                                        className="card-img-top" alt="img-five" />
+                                </a>
+                                <p className="card-text"></p>
+                                <p id="repo"><a href="https://chrisz304.github.io/HW3-password-generator/">Password Generator</a></p>
+                            </div>
+                            <div className="col-md-1"></div>
+
+
+                            <div className="col-md-3">
+                                <a href="https://cz-workout-tracker.herokuapp.com/">
+                                    <img src="hw20-react-portfolio/Assets/proj2-login.png"
+                                        className="card-img-top" alt="img-six" />
+                                </a>
+                                <p className="card-text"></p>
+                                <p id="repo"><a href="https://cz-workout-tracker.herokuapp.com/">Workout Tracker</a></p>
+                            </div>
+                            <div className="col-md-1"></div>
                         </div>
                         <br></br>
                         <div className="gitProfile">
