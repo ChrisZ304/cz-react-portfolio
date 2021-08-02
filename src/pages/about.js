@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 const mainPage = () => {
     
     return (
-        <div className="aboutApp">
+        <div className="main">
 
             <div className="container">
                 <div className="card">
